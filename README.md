@@ -1,15 +1,15 @@
 # 💫 About Me:
 ### Hi 👋, I'm Abhinav Manoj
 ### Studying Electronics and Computer Science Engineering at Amrita, 2023-27 Batch
-[![](https://visitcount.itsvg.in/api?id=Yinyang005&icon=4&color=1)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=AbhinavRudra&icon=4&color=1)](https://visitcount.itsvg.in)
 
 # GitHub Stats:
 <div id="header" align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yinyang005&theme=shades-of-purple&hide_border=false&include_all_commits=false&count_private=false" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AbhinavRudra&theme=shades-of-purple&hide_border=false&include_all_commits=false&count_private=false" height="200"/>
 </div>
 <div id="header" align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yinyang005&theme=shades-of-purple&hide_border=false" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yinyang005&theme=shades-of-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="400"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbhinavRudra&theme=shades-of-purple&hide_border=false" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhinavRudra&theme=shades-of-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="400"/>
 </div>
 
 # 💻 Experienced With:
