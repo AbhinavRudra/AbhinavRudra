@@ -1,19 +1,51 @@
-# 💫 About Me:
-### Hi 👋, I'm Abhinav Manoj
-### Studying Electronics and Computer Science Engineering at Amrita, 2023-27 Batch
-[![](https://visitcount.itsvg.in/api?id=AbhinavRudra&icon=4&color=1)](https://visitcount.itsvg.in)
+<div align="center">
 
-# GitHub Stats:
-<div id="header" align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbhinavRudra&theme=shades-of-purple&hide_border=false&include_all_commits=false&count_private=false" height="200"/>
-</div>
-<div id="header" align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbhinavRudra&theme=shades-of-purple&hide_border=false" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhinavRudra&theme=shades-of-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="400"/>
+![SVG Banners](https://svg-banners.vercel.app/api?type=glitch&text1=Heaven-O!&&height=100)
+
 </div>
 
-# 💻 Experienced With:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
+<h1 align="center">
+  I'm Abhinav M
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="480" height="360"/>
+</div>
+<H1>About Me:</H1>
+<p>
+  I am a Programmer from India
 
-## 🌐 Social:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.com/users/rudravir123) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/abhinav_m_rudra) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhinav-manoj-8ab8b1221/) 
+- ⚒️ I’m pursuing B.Tech in Electronics and Computer Engg.
+- 🖥️ Exploring ML.
+
+## I Work With
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" title="Anaconda" alt="Anaconda" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" title="Jupyter Notebook" alt="Jupyter Notebook" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original.svg" title="Debian" alt="Debian" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="TensorFlow" alt="TensorFlow" width="40" height="40"/>&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> </p>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg" title="Photoshop" alt="Photoshop" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="MATLAB" alt="MATLAB" width="40" height="40"/>&nbsp;
+</div>
+
+
+## Git Achivements
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbhinavRudra&theme=github_dark" width="700">
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AbhinavRudra&theme=github_dark) ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AbhinavRudra&theme=github_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AbhinavRudra&theme=github_dark) ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AbhinavRudra&theme=github_dark) 
+
+
+![Visitor Count](https://img.shields.io/badge/Visitor%20Count-0-blue?style=flat-square)
+![GitHub followers](https://img.shields.io/github/followers/AbhinavRudra?style=social)
